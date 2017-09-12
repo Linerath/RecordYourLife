@@ -1,0 +1,42 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RYL__record_your_life_"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="RYL__record_your_life_.ShowEventsWindow"
+        mc:Ignorable="d"
+        Title="Просмотр событий" Height="380" Width="486"
+        Loaded="ShowEventsWindow_Loaded"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid>
+        <ListBox x:Name="CEventsNames" Width="220" Height="270.4" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10, 0, 0, 30"
+                 SelectionChanged="CEventsNames_SelectionChanged" MouseDoubleClick="CEventsNames_MouseDoubleClick"/>
+        <TextBox x:Name="CSearch"  Width="220" Height="20" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,10"
+                 GotFocus="CSearch_GotFocus" LostFocus="CSearch_LostFocus" TextChanged="CSearch_TextChanged"
+                 FontStyle="Italic" Foreground="Gray"
+                 Text="Поиск..."/>
+        <Label Content="События" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top"/>
+        <Label Name="TextBlockRecords"  Content="Записи" HorizontalAlignment="Left" Margin="240,19,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="CRecordsNames"  Width="220" Height="290.4" HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+                 MouseDoubleClick="CRecordsNames_MouseDoubleClick" Margin="0, 0, 10, 10"/>
+        <Button Name="CDelete" Margin="210,0,0,305.4" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="20" Height="20"
+                FontSize="13" Click="CDelete_Click" Background="Transparent" Foreground="Transparent" BorderBrush="Transparent">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="D:\C# Visual Studio 17\RYL (record your life)\delete.png"/>
+            </StackPanel>
+        </Button>
+        <Button Name="CUp" Margin="160,0,0,305.4" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="20" Height="20" IsEnabled="False"
+                FontSize="13" Click="CUp_Click" Background="Transparent" Foreground="Transparent" BorderBrush="Transparent">
+            <StackPanel Orientation="Horizontal" Height="13" Width="16">
+                <Image Source="D:\C# Visual Studio 17\RYL (record your life)\up.png"/>
+            </StackPanel>
+        </Button>
+        <Button Name="CDown" Margin="180,0,0,305.4" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="20" Height="20" IsEnabled="False"
+                FontSize="13" Click="CDown_Click" Background="Transparent" Foreground="Transparent" BorderBrush="Transparent">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="D:\C# Visual Studio 17\RYL (record your life)\down.png"/>
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

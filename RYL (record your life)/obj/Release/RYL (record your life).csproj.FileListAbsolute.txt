@@ -1,0 +1,22 @@
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Release\RYL (record your life).exe.config
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Release\RYL (record your life).exe
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Release\RYL (record your life).pdb
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life).csprojResolveAssemblyReference.cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\AddEventWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\AddRecordWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\MainWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\ShowEventsWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\StatisticsWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\App.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life)_MarkupCompile.cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life)_MarkupCompile.lref
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\AddEventWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\AddRecordWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\MainWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\ShowEventsWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\StatisticsWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life).g.resources
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL__record_your_life_.Properties.Resources.resources
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life).csproj.GenerateResource.Cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life).exe
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Release\RYL (record your life).pdb

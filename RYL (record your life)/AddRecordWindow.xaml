@@ -1,0 +1,36 @@
+﻿<Window x:Class="RYL__record_your_life_.AddRecordWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RYL__record_your_life_"
+        mc:Ignorable="d"
+        Title="Добавление записи" Height="290" Width="486"
+        Loaded="AddRecordWindow_Loaded"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,0">
+        <ListBox Name="CEventsNames" Width="220" Height="220" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10, 0, 0, 30"/>
+        <RichTextBox Name="CRecordDescription" Width="220" Height="105" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,145"
+                     FontStyle="Italic" Foreground="Gray"
+                     GotFocus="CRecordDescription_GotFocus" LostFocus="CRecordDescription_LostFocus">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Описание..."/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Image Name="COKImage" Width="20" Height="21" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,145,10" Visibility="Hidden"
+               Source="D:\C# Visual Studio 17\RYL (record your life)\ok1.png"/>
+        <Button x:Name="CAdd" Content="Добавить" Width="60" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,10"
+            Click="CAdd_Click"
+            FontSize="12"/>
+        <Button x:Name="CBack" Content="Назад" Width="60" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10"
+            Click="CBack_Click"
+            FontSize="12"/>
+        <TextBox Name="CSearch" Width="220" Height="20" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,10"
+                 GotFocus="CSearch_GotFocus" LostFocus="CSearch_LostFocus" TextChanged="CSearch_TextChanged"
+                 FontStyle="Italic" Foreground="Gray"
+                 Text="Поиск..."/>
+        <DatePicker Name="CDate" HorizontalAlignment="Left" Margin="371,120,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

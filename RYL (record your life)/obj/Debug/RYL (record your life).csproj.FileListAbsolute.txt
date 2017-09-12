@@ -1,0 +1,26 @@
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\MainWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\App.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\MainWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL__record_your_life_.Properties.Resources.resources
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL (record your life).csproj.GenerateResource.Cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\AddEventWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\AddEventWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\AddRecordWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\AddRecordWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\ShowEventsWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\ShowEventsWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\StatisticsWindow.g.cs
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\StatisticsWindow.baml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\ColorPickerWPF.dll
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\WriteableBitmapEx.Wpf.dll
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\WriteableBitmapEx.Wpf.pdb
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\WriteableBitmapEx.Wpf.xml
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL (record your life).csproj.CoreCompileInputs.cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\RYL.exe.config
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\RYL.exe
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\bin\Debug\RYL.pdb
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL_MarkupCompile.cache
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL_MarkupCompile.lref
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.g.resources
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.exe
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.pdb
