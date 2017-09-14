@@ -4,4 +4,6 @@ This program is kind of diary with maintaining statistics.
 
 Written on Windows Presentation Foundation (WPF)
 
-/Linerath, 2017
+![alt text](Images/screenshot1.png)
+
+©Linerath, 2017
