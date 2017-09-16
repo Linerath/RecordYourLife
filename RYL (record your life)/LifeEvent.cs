@@ -53,7 +53,7 @@ namespace RYL__record_your_life_
             }
             set
             {
-                if (description == null) throw new ArgumentNullException("Null argument.");
+                if (value == null) throw new ArgumentNullException("Null argument.");
                 description = value;
             }
         }

@@ -24,3 +24,4 @@ D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\R
 D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.g.resources
 D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.exe
 D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL.pdb
+D:\C# Visual Studio 17\RYL (record your life)\RYL (record your life)\obj\Debug\RYL (record your life).csprojResolveAssemblyReference.cache
